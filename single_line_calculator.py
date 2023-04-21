@@ -43,4 +43,4 @@ elif "*" in action:
     print(run.multi())
 
 else:
-    print("cant reconized")
+    print("cant reconizeds")
